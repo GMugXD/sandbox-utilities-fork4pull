@@ -5,7 +5,7 @@
 "health": 200,
 "size": 1,
   "requirements": [
-   "beryllium/32"
+   "copper/32, lead/16"
   ],
   "category": "distribution",
 }
